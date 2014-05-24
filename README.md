@@ -3,7 +3,8 @@ WP-Deploy
 
 Deploy WordPress installations with just a couple of clicks. Inspired by the WP Engine Deploy-system.
 
-== Requirements ==
+Requirements
+===
 
 Web-server (nginx recommended)
 PHP5 and PHP-CLI
