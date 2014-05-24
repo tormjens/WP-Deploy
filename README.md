@@ -9,4 +9,10 @@ Requirements
 * Web-server (nginx recommended)
 * PHP5 and PHP-CLI
 * MySQL
+* lynx
 * sudo capability of for the www-data user
+
+Todo
+===
+
+* Better setup and termination of users
