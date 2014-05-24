@@ -16,3 +16,4 @@ Todo
 ===
 
 * Better setup and termination of users
+* Combine user creation and install setup in one shell script
